@@ -1,4 +1,4 @@
 # C++ project #
-/DOC - documentation
-/SRC - source
-/BIN - .exe app
+/DOC - documentation<br>
+/SRC - source<br>
+/BIN - .exe app<br>
